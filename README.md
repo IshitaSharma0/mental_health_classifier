@@ -18,10 +18,16 @@ This project is an NLP-based Streamlit web app designed to detect signs of menta
 - `requirements.txt` — Python dependencies required for the project  
 - `README.md` — Project overview and instructions  
 
-## Setup Instructions
+## 🛠️ Setup Instructions
 
-1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+### 1. Clone the Repository
+
+bash
+git clone https://github.com/IshitaSharma0/mental_health_classifier.git
+cd mental_health_classifier
+
+### 2. Install Dependencies
+
+bash
+pip install -r requirements.txt
 
