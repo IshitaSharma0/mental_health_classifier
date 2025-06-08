@@ -1,7 +1,7 @@
 # Mental Health Risk Prediction App
 
 ## Description
-This project is an NLP-based Streamlit web app designed to detect signs of mental health distress in user-written text using a trained deep learning model.
+This project is a NLP-based Streamlit web app designed to detect signs of mental health distress in user-written text using a trained deep learning model.
 
 ## 🚀 Features
 - Text preprocessing with lemmatization  
